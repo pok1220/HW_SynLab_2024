@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Dec  7 23:19:16 2024
+# Process ID: 23612
+# Current directory: D:/Chula_Third_Year/HW_ProjectLab/project2/finalProjectHardwareSynLab2024/finalProjectHardwareSynLab2024.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: D:/Chula_Third_Year/HW_ProjectLab/project2/finalProjectHardwareSynLab2024/finalProjectHardwareSynLab2024.runs/impl_1/top.vdi
+# Journal file: D:/Chula_Third_Year/HW_ProjectLab/project2/finalProjectHardwareSynLab2024/finalProjectHardwareSynLab2024.runs/impl_1\vivado.jou
+# Running On        :LAPTOP-IJ1CABOK
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+# CPU Frequency     :2688 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16888 MB
+# Swap memory       :8321 MB
+# Total Virtual     :25209 MB
+# Available Virtual :6397 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
